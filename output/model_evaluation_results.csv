@@ -1,0 +1,7 @@
+model,mae,rmse,r_squared
+Naive previous-year,335.12,429.1,0.79
+Ridge (Config B),344.4,475.54,0.74
+LinearRegression (Config A),382.27,483.97,0.73
+Ridge (Config A),382.4,484.16,0.73
+LinearRegression (Config B),615.22,682.0,0.47
+DummyRegressor (mean),848.06,969.76,-0.07
