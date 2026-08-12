@@ -1,0 +1,4 @@
+state,feature_year,prediction_year,previous_total_addicts,predicted_total_addicts,actual_total_addicts,prediction_error,absolute_error,absolute_percentage_error,model,sample_category,reasonableness_classification
+Kedah,2022,2023,2724.0,2955.883807439843,2678.0,277.88380743984317,277.88380743984317,10.376542473481821,"Ridge (Config B, refit on all validated transitions)",High-volume (highest 2022 total),Reasonably close
+Sarawak,2022,2023,1215.0,1803.2008553834103,1485.0,318.20085538341027,318.20085538341027,21.427667029185876,"Ridge (Config B, refit on all validated transitions)",Middle-volume (index 7 of 16 sorted ascending),Moderate difference
+W.P. Putrajaya,2022,2023,46.0,858.8090980856887,34.0,824.8090980856887,824.8090980856887,2425.9091120167313,"Ridge (Config B, refit on all validated transitions)",Low-volume (lowest 2022 total),Large difference
